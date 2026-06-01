@@ -86,7 +86,7 @@ export default function About() {
           {/* DOWNLOAD CV */}
           <div className="mt-10">
             <a
-              href="/Oshadhi Dissanayaka.pdf"
+              href="/Oshadhi_Dissanayaka_CV.pdf"
               download
               className="inline-flex items-center gap-3 px-8 py-4
                          rounded-full font-medium
